@@ -1,7 +1,3 @@
-Great! Here's a template for your GitHub repository to showcase your HR Analysis Dashboard project using Power BI:
-
----
-
 ## HR Analysis Dashboard
 
 ### Overview
@@ -76,7 +72,3 @@ We welcome contributions to enhance the HR Analysis Dashboard. To contribute, pl
 ### Contact
 
 For any queries or support, please contact (zainlokhandwala21@gmail.com).
-
----
-
-Feel free to modify the content to better fit your project specifics and personal style. Adding screenshots of your dashboard will also help in giving potential users a visual understanding of its capabilities.
