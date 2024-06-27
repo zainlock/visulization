@@ -49,17 +49,6 @@ To view and interact with the HR Analysis Dashboard, follow these steps:
    - Modify the existing visualizations or add new ones based on your requirements.
    - Update the data source to reflect the latest information.
 
-### Screenshots
-
-![Overall Turnover Rate](screenshots/overall_turnover_rate.png)
-*Overall turnover rate displayed on the dashboard.*
-
-![Departmental Analysis](screenshots/departmental_analysis.png)
-*Departmental turnover analysis highlighting top departments with highest turnover.*
-
-![Age Analysis](screenshots/age_analysis.png)
-*Age distribution of employees who have left the organization.*
-
 ### Contributing
 
 We welcome contributions to enhance the HR Analysis Dashboard. To contribute, please follow these steps:
